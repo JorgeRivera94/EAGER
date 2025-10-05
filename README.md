@@ -1,5 +1,5 @@
 The directory used had the following structure:
-EAGER
+EAGER 
 --analysis
 --kumar_data
 ----converted
